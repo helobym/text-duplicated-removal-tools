@@ -1,4 +1,4 @@
-This software is developed by Helobym (helobym.com)
+This software is developed by [Helobym](https://helobym.com)
 
 Text Duplicate Remover is a sophisticated text processing utility designed to efficiently eliminate redundant content from text files.
 [Demo Video](https://youtu.be/YJnpe_d5mBw)
